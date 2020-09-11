@@ -114,7 +114,7 @@ public class SubmitActivity extends AppCompatActivity {
 
                 String sdata = s1 + " " + s2;
 
-                Toast.makeText(getApplicationContext(),sdata,Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Response "+sdata,Toast.LENGTH_SHORT).show();
                 if(response.isSuccessful()) {
                     Toast.makeText(getApplicationContext(),"Successful!",Toast.LENGTH_SHORT).show();
                     successDialog();
