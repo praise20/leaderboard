@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Leaderboard</string>
+    <string name="learning_leaders">Learning leaders</string>
+    <string name="skill_iq_leaders">Skill IQ leaders</string>
+    <string name="submittt">Submit</string>
+    <string name="launcherlogo">LauncherLogo</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="project_submissions">Project Submissions</string>
+    <string name="leaderboard">Leaderboard</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment22">hello_blank_fragment22</string>
+    <string name="project_submit">Project submissions</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_on_githun_link">Project on GITHUN(link)</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="submission_successful">Submission Successful</string>
+</resources>

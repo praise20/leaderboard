@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:orientation="horizontal">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:minHeight="?attr/actionBarSize"
+        app:title="Leaderboard"
+        app:titleTextColor="@android:color/white">
+
+        <Button
+            android:id="@+id/submissions"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginStart="120dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/my_button"
+            android:backgroundTint="@color/white"
+            android:text="@string/submit"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/black" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+
+</LinearLayout>
